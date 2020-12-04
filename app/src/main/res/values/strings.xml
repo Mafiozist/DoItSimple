@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">DoItSimple2</string>
+
+    <!--Секция логина и пароля-->
+    <string name="enter_pass">Введите пароль!</string>
+    <string name="enter_login">Введете логин!</string>
+    <string name="registration_button">Зарегестрироваться</string>
+    <string name="authorization_button">Войти</string>
+
+
+    <string name="empty_warning">Все поля должны быть заполнены</string>
+    <string name="connection_db_warning">Не удается подключится к БД</string>
+
+    <string name="undo_action">Отмена</string>
+    <string name="delete_task_question">Вы уверены, что хотите удалить данное задание?</string>
+    <string name="apply_task_question">Вы уверены, что выполнили задание?</string>
+
+    <!--Icons-->
+    <string name="sort_task_title_text">Сортировать</string>
+    <string name="add_task_title_text">Добавить</string>
+
+
+    <string name="priority">Приоритет %1$s</string>
+    <string name="create_task_group">Новая группа заданий</string>
+
+    <string name="create_task_group_title">Название группы</string>
+
+    <string name="create_task_group_priority">Приоритет (0-10)</string>
+
+
+</resources>
